@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5433,
+				"askForPassword": true,
+				"driver": "PostgreSQL",
+				"name": "pgss",
+				"database": "sample_db",
+				"username": "admin"
+			}
+		]
+	}
+}
